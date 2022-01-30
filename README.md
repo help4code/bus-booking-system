@@ -61,9 +61,7 @@ a.After Booking we can check the ticket
 =========================================================
 
                                 
-Bus Booking Application
-		   using
-             Core Python
+Bus Booking Application using Core Python
 
 Project Outcome:-
 
